@@ -16,7 +16,7 @@
 1 git clone https://github.com/liuxm6/demos.git
 2 cd demos
   npm install
-3 grunt //生产环境目录
+3 grunt //清空生产环境目录
 4 grunt dist //编译
 5 grunt zip  //打包
 ```
