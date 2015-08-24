@@ -17,7 +17,7 @@
     4 grunt dist //编译
     5 grunt zip  //打包
 ##目录介绍
-
+```
 demos/
 ├── apps/            --生成的app
 ├── font/            --系统中使用的字体
@@ -29,3 +29,4 @@ demos/
 ├── Gruntfile.js     --grunt依赖配置文件
 ├── package.json     --npm依赖配置文件
 └── LICENSE          --LICENSE
+```
